@@ -1,4 +1,4 @@
-let xp = 6.000;
+let xp = 2.048;
 let nome = 'TalehFps'
 
 if (xp <= 1.000){
